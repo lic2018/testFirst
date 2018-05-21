@@ -1,4 +1,4 @@
-package com.trygo.one;
+package com.Thread.three;
 
 public class Test {
 
